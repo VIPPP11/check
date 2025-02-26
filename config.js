@@ -4,7 +4,7 @@ module.exports = {
   TOKEN: "",
   language: "vi",
   ownerID: ["657589847510482944", ""], 
-  mongodbUri : "mongodb+srv://peovip:<db_password>@discordms.re9pa.mongodb.net/?retryWrites=true&w=majority&appName=DiscordMS",
+  mongodbUri : "mongodb+srv://peovip:dat20033002@discordms.re9pa.mongodb.net/?retryWrites=true&w=majority",
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
