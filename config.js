@@ -15,10 +15,10 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "INZEWORLD.COM (DE)",
-      password: "mspeo.codendaide",
-      host: "180.188.226.76",
-      port:  7540,
+      name: "ChalresNaig Node",
+      password: "NAIGLAVA-dash.techbyte.host",
+      host: "lavahatry4.techbyte.host",
+      port:  3000,
       secure: false
     }
   ]
