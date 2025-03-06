@@ -2,9 +2,11 @@
 
 module.exports = {
   TOKEN: "",
-  language: "vi",
-  ownerID: ["657589847510482944", ""], 
-  mongodbUri : "mongodb+srv://peovip:dat20033002@discordms.re9pa.mongodb.net/?retryWrites=true&w=majority",
+  language: "en",
+  ownerID: ["1004206704994566164", ""], 
+  mongodbUri : "",
+  spotifyClientId : "",
+  spotifyClientSecret : "",
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
