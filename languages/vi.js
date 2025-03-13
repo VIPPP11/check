@@ -4,7 +4,7 @@ module.exports = {
       description: "Kiểm tra độ trễ của bot",
       response: "Đang đo độ trễ...",
       embed: {
-        title: "Độ Trễ Của Bot",
+        title: "Bot có lag éo đâu mà check???",
         responseTime: "- Thời gian phản hồi của bot: **{latency}ms**",
         websocketPing: "- Độ trễ WebSocket: **{ping}ms**",
         uptime: "- Thời gian hoạt động: **{uptime}**",
