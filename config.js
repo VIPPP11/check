@@ -18,9 +18,9 @@ module.exports = {
   nodes: [
   {
       name: "Avinan",
-      password: "avinan",
+      password: "pokemon",
       host: "new-york-node-1.vortexcloud.xyz",
-      port:  9323,
+      port:  9376,
       secure: false
     }
   ]
